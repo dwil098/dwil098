@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edwil C.Sta.Maria</h1>
 <img align="right" alt="Coding" width="400"src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwil098&label=Profile%20views&color=0e75b6&style=flat" alt="dwil098" /> </p>
-https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932
+
 <p align="left"> <a href="https://twitter.com/dwil098" target="blank"><img src="https://img.shields.io/twitter/follow/dwil098?logo=twitter&style=for-the-badge" alt="dwil098" /></a> </p>
 
 - 🔭 I’m currently working on **MyOwnProject**
